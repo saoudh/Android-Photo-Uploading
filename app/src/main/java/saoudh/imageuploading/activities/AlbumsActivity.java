@@ -17,7 +17,7 @@ import static saoudh.imageuploading.HelperClass.ALBUM_KEY;
  * It displays all albums of the internal and external memory
  * of the device for selection
  *
- * @author Hossam Saoud
+ * @author H. Saoud
  * @version 1.0
  * @since 2018-31-08
  */

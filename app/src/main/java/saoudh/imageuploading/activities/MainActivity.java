@@ -9,7 +9,6 @@ import android.widget.Toast;
 
 import saoudh.imageuploading.HelperClass;
 import saoudh.imageuploading.R;
-import saoudh.imageuploading.R;
 import saoudh.imageuploading.threads.LoadAlbumsAsyncTask;
 
 import static saoudh.imageuploading.HelperClass.PERMISSIONS;
@@ -20,7 +19,7 @@ import static saoudh.imageuploading.HelperClass.PERMISSIONS;
  * It displays all albums of the internal and external memory
  * of the device and enables its selection
  *
- * @author Hossam Saoud
+ * @author H. Saoud
  * @version 1.0
  * @since 2018-31-08
  */
