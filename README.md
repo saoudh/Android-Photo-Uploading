@@ -8,9 +8,9 @@ There are two activities used. One is for displaying all albums and the other is
 ### 1.1 Overview Main Activity
 In this Activity all albums are displayed. After you choose one the pictures of this album are listed.
 
-![Overview Main Activity](https://github.com/saoudh/Android-Photo-Uploading/blob/master/overview.png | width=60)
+![Overview Main Activity](https://github.com/saoudh/Android-Photo-Uploading/blob/master/overview.png)
 
 ### 1.2 List of Pictures
 In this Activity all pictures in the selected album are listed. Here you can add a description or tags and upload them individually
 
-![List pictures](https://github.com/saoudh/Android-Photo-Uploading/blob/master/listed_pictures.png | width=60)
+![List pictures](https://github.com/saoudh/Android-Photo-Uploading/blob/master/listed_pictures.png)
